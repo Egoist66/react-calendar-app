@@ -1,0 +1,28 @@
+.user-card {
+    margin-bottom: 50px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+input {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.user-img {
+    padding-bottom: 20px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+.sign-out-btn {
+    padding-bottom: 50px;
+}
